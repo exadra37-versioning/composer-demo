@@ -1,0 +1,20 @@
+{
+    "name": "exadra37-versioning/composer-demo",
+    "description": "A demo for using https://gitlab.com/exadra37-versioning/semantic-versioning in PHP projects with Composer.",
+    "keywords": [
+        "Exadra37",
+        "Semantic Versioning",
+        "Versioning",
+        "SemVer"
+    ],
+    "homepage": "https://gitlab.com/exadra37-versioning/composer-demo",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Paulo Silva",
+            "email": "exadra37@gmail.com",
+            "homepage": "https://exadra37.com",
+            "role": "Software Developer"
+        }
+    ]
+}
