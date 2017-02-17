@@ -49,7 +49,13 @@ Generating autoload files
 #### Now just run:
 
 ```bash
-composer update
+$ composer update
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 0 installs, 1 update, 0 removals
+  - Updating exadra37-versioning/composer-demo (1.0.0.0 => 1.0.0.1) Downloading: 100%
+Writing lock file
+Generating autoload files
 ```
 
 
