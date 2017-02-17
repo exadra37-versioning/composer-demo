@@ -34,7 +34,13 @@ Lets see some examples to cover the 4 stages of [Semantic Versioning](https://gi
 #### Lets use composer to install it:
 
 ```bash
-composer install
+$ composer install
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing exadra37-versioning/composer-demo (1.0.0.0) Downloading: 100%
+Writing lock file
+Generating autoload files
 ```
 
 
